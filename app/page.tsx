@@ -131,7 +131,7 @@ const SnakeGame: React.FC = () => {
         </p>
         <p>Arrow Keys: Move the snake</p>
       </div>
-      {gameOver && <h2>Game Over! Press &quot;Restart&quot; to play again.</h2>}
+      {gameOver && <h2>Game Over ! Press &quot;Restart&quot; to play again.</h2>}
       <div
         style={{
           display: "grid",
